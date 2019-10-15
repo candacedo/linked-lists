@@ -3,7 +3,7 @@
 public class Node {
     private int data;
     private Node next;
-
+    //maya was here
     public Node (int d) {
         this.data = d;
         this.next = null;
